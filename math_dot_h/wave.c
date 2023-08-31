@@ -14,6 +14,7 @@ const uint16_t delay = 15;
 const float pi = 3.14159265359;
 
 
+//loud ass beeps, turn volume down
 void beep(int freq) {
 
 	int ms = 50;
